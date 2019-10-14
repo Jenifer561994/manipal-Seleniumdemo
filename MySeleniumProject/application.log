@@ -1,0 +1,6 @@
+2019-10-01 09:56:34,205  INFO [main] log4jdemo:19 - Launch Browser
+2019-10-01 09:56:37,064  INFO [main] log4jdemo:24 - URL launched
+2019-10-01 09:56:37,071  INFO [main] log4jdemo:29 - title value is:Google
+2019-10-01 09:56:37,072 ERROR [main] log4jdemo:37 - Incorrect title: Test case failed
+2019-10-01 09:56:37,072  WARN [main] log4jdemo:38 - ensure u have opened the correct page
+2019-10-01 09:56:37,073 FATAL [main] log4jdemo:39 - Wrong page
